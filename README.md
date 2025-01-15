@@ -33,7 +33,7 @@ Once an order is marked "Ready," the waiter is notified instantly to serve the o
 Installation
 
 Clone the repository:
-git clone https://github.com/your-repository/waitermate.git
+git clone git@github.com:HTsefike/waitermate.git
 Navigate to the project directory:
 cd waitermate
 Run the app:
